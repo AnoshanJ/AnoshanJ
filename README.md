@@ -5,6 +5,12 @@
 - 💞️ I’m looking to collaborate on Open Source Projects.
 - 📫 How to reach me, Drop me a email at anoshan265@gmail.com.
 
+### Hacktoberfest 2023
+
+[![An image of @anoshanj's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/anoshanj)](https://holopin.io/@anoshanj)
+
+### Github Stats
+
 <a href="https://github.com/AVS1508">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anoshanj&theme=dark&show_icons=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anoshanj&theme=dark&layout=compact" />
